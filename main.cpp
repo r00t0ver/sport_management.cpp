@@ -21,7 +21,7 @@ int main()
     string status;
     getline(admin,status);
 
-   // loading();
+   loading();
 
     do{
     if(status=="1")
